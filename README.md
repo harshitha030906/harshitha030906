@@ -46,16 +46,11 @@ Git, GitHub, Power BI, VS Code
 
 ---
 
-### 🔹 Mail Interface Web App
-- Web app to send emails  
-- Built with Node.js, Express & Nodemailer  
-- SMTP-based email integration  
-
----
-
 ### 🔹 Customer Purchase Behavior Analysis
--Performed exploratory data analysis (EDA) on customer transaction data
--Identified patterns in purchase amount, discounts, and customer segments
--Used Pandas, NumPy for data cleaning and visualization
--Stored and queried data using PostgreSQL
--Created a visual dashboard using PowerBI
+- Performed exploratory data analysis (EDA) on customer transaction data
+- Identified patterns in purchase amount, discounts, and customer segments
+- Used Pandas, NumPy for data cleaning and visualization
+- Stored and queried data using PostgreSQL
+- Created a visual dashboard using PowerBI
+
+⭐ *Learning continuously and working towards becoming better in Data Science & Development*
