@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on MERN Stack, Data science<br>I'm looking to collaborate on Full Stack projects, AI projects<br>I'm currently learning Data Structures & Algorithms<br>
+
+* 💻 Currently learning **Java Full Stack Development**
+* 🤝 Open to collaborating on **Full Stack and AI/ML projects**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Passionate about building real-world applications and exploring new technologies
+
 
 
 ## 🌐 Socials:
