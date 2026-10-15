@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 * 💻 Currently learning **Java Full Stack Development**
-* 🤝 Open to collaborating on **Full Stack and AI/ML projects**
+* 🤝 Open to collaborating on **Full Stack and AI projects**
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🚀 Passionate about building real-world applications and exploring new technologies
 
